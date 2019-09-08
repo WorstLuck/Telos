@@ -1,5 +1,5 @@
 # Interface
-![Telos](https://gyazo.com/51a5884a99762786d6fbed944e0252f6)
+![Telos](https://i.gyazo.com/51a5884a99762786d6fbed944e0252f6.png)
 
 # Telos
 
